@@ -1,0 +1,41 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "B1DC0E0D44381E24EBBFEBF3DD75A8FF43B9ECA1",
+			"Assets": [
+				"/PEP_Mod/CollectableReplacements/MercerSpheres/SKBK_MI_MercerFood",
+				"/PEP_Mod/ScienceCapsule/Material/SKBK_MI_ScienceCapsule_Normal",
+				"/PEP_Mod/ScienceCapsule/Material/SKBK_MI_ScienceCapsule_Pure"
+			]
+		},
+		{
+			"ShaderMapHash": "DB861D1C2A70C6B9665FDEC1147F82DCE70A6758",
+			"Assets": [
+				"/PEP_Mod/BuildableResourceNodes/Items/Mesh/Materials/SKBK_MI_Fragment_Bauxite",
+				"/PEP_Mod/BuildableResourceNodes/Items/Mesh/Materials/SKBK_MI_Fragment_Biomass",
+				"/PEP_Mod/BuildableResourceNodes/Items/Mesh/Materials/SKBK_MI_Fragment_Caterium",
+				"/PEP_Mod/BuildableResourceNodes/Items/Mesh/Materials/SKBK_MI_Fragment_Coal",
+				"/PEP_Mod/BuildableResourceNodes/Items/Mesh/Materials/SKBK_MI_Fragment_Copper",
+				"/PEP_Mod/BuildableResourceNodes/Items/Mesh/Materials/SKBK_MI_Fragment_Iron",
+				"/PEP_Mod/BuildableResourceNodes/Items/Mesh/Materials/SKBK_MI_Fragment_Limestone",
+				"/PEP_Mod/BuildableResourceNodes/Items/Mesh/Materials/SKBK_MI_Fragment_RawQuartz",
+				"/PEP_Mod/BuildableResourceNodes/Items/Mesh/Materials/SKBK_MI_Fragment_SAM",
+				"/PEP_Mod/BuildableResourceNodes/Items/Mesh/Materials/SKBK_MI_Fragment_Sulfur",
+				"/PEP_Mod/BuildableResourceNodes/Items/Mesh/Materials/SKBK_MI_Fragment_Uranium"
+			]
+		},
+		{
+			"ShaderMapHash": "64C398BA1A6123C40BE41489C4CC78A76B797ABB",
+			"Assets": [
+				"/PEP_Mod/ScienceCapsule/Material/SKBK_MI_ScienceCapsule_Impure"
+			]
+		},
+		{
+			"ShaderMapHash": "B3C4AEDA3AB648596C5E57F3BD649D2DDFC747DF",
+			"Assets": [
+				"/PEP_Mod/ScienceCapsule/Material/SKBK_MI_Flask"
+			]
+		}
+	]
+}

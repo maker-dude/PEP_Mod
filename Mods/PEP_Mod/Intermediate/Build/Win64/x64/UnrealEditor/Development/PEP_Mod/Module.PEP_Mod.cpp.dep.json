@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\modding\\satisfactory\\satisfactorymodloader\\mods\\pep_mod\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pep_mod\\module.pep_mod.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\modding\\satisfactory\\satisfactorymodloader\\intermediate\\build\\win64\\x64\\factoryeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "d:\\modding\\satisfactory\\satisfactorymodloader\\mods\\pep_mod\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pep_mod\\definitions.pep_mod.h",
+            "d:\\modding\\satisfactory\\satisfactorymodloader\\mods\\pep_mod\\source\\pep_mod\\private\\pep_mod.cpp",
+            "d:\\modding\\satisfactory\\satisfactorymodloader\\mods\\pep_mod\\source\\pep_mod\\public\\pep_mod.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
