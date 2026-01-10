@@ -72,3 +72,26 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Extra stuff so i can do the things in UE
+.github/*
+.vsconfig
+BlankImage.png
+CREDITS.md
+Config/*
+Configs/*
+Content/*
+FactoryGame.uproject*
+LICENSE.txt*
+Mods/AccessTransformers/*
+Mods/Alpakit/*
+Mods/ExampleMod/*
+Mods/SML/*
+Mods/SMLEditor/*
+Mods/WwisePatches/*
+Plugins/*
+ReleaseProcess.md*
+SatisfactoryModLoader_WwiseProject/*
+Source/*
+nuget.config
+sonar-project.properties
