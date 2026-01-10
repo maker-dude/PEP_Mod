@@ -1,8 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.PEP_Mod.cpp.obj": [
-			"PEP_Mod.cpp.obj"
-		]
-	}
-}
