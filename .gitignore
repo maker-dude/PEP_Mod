@@ -89,6 +89,7 @@ Mods/ExampleMod/*
 Mods/SML/*
 Mods/SMLEditor/*
 Mods/WwisePatches/*
+Mods/*/Saved/
 Plugins/*
 ReleaseProcess.md*
 SatisfactoryModLoader_WwiseProject/*
