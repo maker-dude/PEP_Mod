@@ -1,6 +1,8 @@
 ![https://github.com/maker-dude/PEP_Mod/blob/main/Mods/PEP_Mod/Resources/resource_nodes.png](https://github.com/maker-dude/PEP_Mod/blob/main/Mods/PEP_Mod/Resources/Media/initial_platform.png)
 **Welcome Pioneer, to the Platform Expansion Program.**  
 
+**NOTE** You must choose to skip the onboarding step when starting a new world with PEP.
+
 The **Platform Expansion Program** replaces natural resource deposits and exploration with a tightly focused, efficiency-driven challenge. Instead of roaming for nodes, you’ll build and place **deployable resource nodes**, expanding your platform piece by piece to maximize output under extreme resource constraints.
 
 
