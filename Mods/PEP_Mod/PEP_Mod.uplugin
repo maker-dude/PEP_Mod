@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.14",
+	"VersionName": "1.0.15",
 	"FriendlyName": "Platform Expansion Program",
 	"Description": "A FICSIT program focused on maximizing output through strict efficiency and controlled expansion.",
 	"Category": "Modding",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.11.3"
 		}
 	],
-	"SemVersion": "1.0.14",
+	"SemVersion": "1.0.15",
 	"GameVersion": ">=416835"
 }
